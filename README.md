@@ -1,4 +1,5 @@
 # QRadar to MongoDB - Event Sync
+<a href="https://www.buymeacoffee.com/athomo"><img src="https://img.buymeacoffee.com/button-api/?text=Comprame%20un%20cafecito&emoji=&slug=athomo&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 Sincronización automatizada de eventos (AQL) y alertas/ofensas (API REST) desde múltiples instancias de IBM QRadar hacia MongoDB. Diseñado con una arquitectura multi-tarea guiada por configuración (JSON), ideal para consolas SIEM distribuidas o entornos con múltiples arrendatarios (MSSP).
 
